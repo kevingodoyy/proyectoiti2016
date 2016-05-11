@@ -1,0 +1,36 @@
+# proyectoiti2016 
+Ventanas
+1)Distribución de animales por Rodeo o Corral
+	Gráfica 
+*Vaquillonas:
+*Alta producción:
+*Veterinaria o  enfermería :
+*Media Producción :
+*Secas en preparto :
+
+1.1) Alertas del sistema
+ Las posteriores alertas y notificaciones del sistema se brindan automáticamente en relación a la base de datos cargada en el sistema, indicando la cantidad de animales en una situación específica. 
+
+*Debe moverse de rodeo o corral
+*Nivel de producción muy bajo
+*Parto reciente
+
+1.2)Resumen de Ganadería:
+*Rodeos o corrales definidos en el sistema.
+*Animales en el establecimiento.
+*Animales inactivos.
+*Hembras con preñez confirmada.
+
+1.3)Resumen de Lecheria
+*Animales en rodeo o corral de ordeñe.
+*Animales de ordeñe por hectárea.
+*Lactancias activas en el sistema.
+*Animales en último control lechero.
+*Promedio por animal en el último control lechero. (Lts)
+*Total producido en el último control lechero. (Lts)
+
+
+
+
+2) Grafica: Produccion Lechera    (Analiza distribución productiva y días en lactancia)  
+*Producción de Leche * Días en Ordeñé
