@@ -1,10 +1,11 @@
 # proyectoiti2016 
-Ventanas
+		Ventanas
+		
 1)Distribución de animales por Rodeo o Corral
 	Gráfica 
-*Vaquillonas:
-*Alta producción:
-*Veterinaria o  enfermería :
+*Vaquillonas :
+*Alta producción :
+*Veterinaria o enfermería :
 *Media Producción :
 *Secas en preparto :
 
@@ -29,8 +30,55 @@ Ventanas
 *Promedio por animal en el último control lechero. (Lts)
 *Total producido en el último control lechero. (Lts)
 
-
-
-
 2) Grafica: Produccion Lechera    (Analiza distribución productiva y días en lactancia)  
 *Producción de Leche * Días en Ordeñé
+
+3) Rodeos o Corrales
+*Producción alta
+*Producción media 
+*Produccion baja
+*Vaquillonas
+*En enfermeria o en el veterinarion
+*Secas en preparto
+*Animales muertos
+*Animales vendidos
+
+4)Crear nuevo rodeo o corral
+*Nombre del rodeo o  corral
+*Caracteristicas
+*Tipos de vaca
+*Rodeo / Hato pequeño   
+*Realiza control lechero
+*Producción minima
+*Gestionar reproducción
+*Alerta de destete
+*Mover animales después de...días despues del parto
+*Mover animales antes de...días antes del parto
+*Animales activos
+*Crear
+
+5)Control lechero de ordeñe
+*Fecha
+*Responsable
+*Unidad  (Lts)
+
+5.1)Crear nuevo registro sobre control lechero de ordeñe
+*Animal
+*Ordeñe total
+*Rodeo durante ordeñe (Alta producción, Media Producción, Vaquillonas, Veterinaria o Enfermeria, Secas en preparto, Animales muertos, Animales vendidos)
+*Primer ordeñe
+*Segundo ordeñé
+*Tercer ordeñe
+*Cuarto ordeñe
+*SCC(Estandar del conteo de celulas somáticas)
+*Grasa
+*Proteinas
+*Peso
+
+5.2) Subtotal por rodeo o corral
+*Alta producción
+*Media produccion
+*Vaquillonas
+
+5.3)Grafica
+*Numero de animales * Producción de leche
